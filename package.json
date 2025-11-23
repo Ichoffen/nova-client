@@ -21,8 +21,7 @@
     "appId": "com.chat.ai",
     "productName": "AI Chat",
     "win": {
-      "target": "nsis",
-      "icon": "icon.ico"
+      "target": "nsis"
     }
   }
 }
