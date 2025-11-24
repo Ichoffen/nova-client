@@ -19,6 +19,7 @@
   "build": {
     "appId": "com.simple.chat",
     "productName": "AIChat",
+    "publish": null,
     "win": {
       "target": "nsis"
     }
